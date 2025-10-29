@@ -39,7 +39,7 @@ Built using **React**, powered by **TheMealDB API**, and designed for a seamless
 
 ## 🌐 Live Demo
 
-🔗 **Deployed App:** [Click here to explore KitchenAssistantApp](#)  
+🔗 **Deployed App:** [Click here to explore KitchenAssistantApp](https://kitchenapp-indol.vercel.app/)  
 *(Replace `#` with your deployed link once ready)*  
 
 ---
