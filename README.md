@@ -65,10 +65,10 @@ Check how website works
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ritika-2025/KitchenAssistantApp.git
+git clone https://github.com/Ritika-2025/Kitchenapp.git
 
 # Navigate to the folder
-cd KitchenAssistantApp
+cd Kitchenapp
 
 # Install dependencies
 npm install
