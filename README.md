@@ -40,25 +40,17 @@ Built using **React**, powered by **TheMealDB API**, and designed for a seamless
 ## 🌐 Live Demo
 
 🔗 **Deployed App:** [Click here to explore KitchenAssistantApp](https://kitchenapp-indol.vercel.app/)  
-*(Replace `#` with your deployed link once ready)*  
+Check how website works
 
 ---
 
 ## 🎥 Demo Video
 
-📹 [Watch the App in Action](#)  
+📹 [Watch the App in Action](https://drive.google.com/file/d/1ZDUEruXxrtRm6_GrDbasqBwJBS6DihMj/view?usp=sharing)  
 *(Add your video link here — YouTube, Google Drive, or Loom)*  
 
 ---
 
-## 🖼️ UI/UX Preview
-
-Here’s a glimpse of **Taylor’s Kitchen Assistant** design 👇  
-
-![App Screenshot](#)  
-*(Replace `#` with the image link or add it from your repo)*  
-
----
 
 ## 🧰 Tech Stack
 
